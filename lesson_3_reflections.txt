@@ -3,3 +3,6 @@ As a backup, if you're working in a team and need to have an always-on pc (serve
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 If I made changes locally and don't pushed those yet, a automated-pull would override my changes and my work would be lost. I can push my changes as a new branch and when pull all changes from remote.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+In a repo I can use branches to try out new ideas savely, If I want to contribute to an existing repo I can clone that and pull and push commits, a fork will be my own version of an existing repo I can't contribute directly to. The owner can check my own development and may add any of my changes to his repo.
